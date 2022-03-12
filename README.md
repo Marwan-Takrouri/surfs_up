@@ -6,6 +6,7 @@ I know that my analysis can only be as good as my data, so the first step is to 
 I will be using my data analysis skills and techniques with Python , Pandas and SQl to come the very best data analysis possible .
 
 
+***Summary of My Analysis***
 My dependencies were added in the next step, and I have connected the SQLite database, and my code is appropriately documented. It's time to start the analysis. woww
 
 Now, let's think about precipitation. W. Avy is concerned about the amount of precipitation on Oahu. There needs to be enough rain to keep everything green, but not so much that we lose out on that ideal surfing and ice cream weather, it got to be nice out and about weather .
@@ -36,14 +37,19 @@ A place like Hawaii with the below visitors trends, and the below data analysis 
 
 June mean 74.9  degree  F  Standard Deviation of 3.25
 December Mean 71.04 degree F Standard deviation of 3.74
+
+
 June and december combined data of :
 minimum temp of 56 degree F
 max temp of 85 Degree F 
 
 
  ![image](https://user-images.githubusercontent.com/89116297/158032370-a1a1da8d-649c-4136-973f-63c640e4721b.png)
+ 
 ![image](https://user-images.githubusercontent.com/89116297/158032384-5668aa40-7c91-4124-808f-9899fcf1f206.png)
+
 ![image](https://user-images.githubusercontent.com/89116297/158032387-70df1790-3e7e-40c4-87fb-ae9bdabcd127.png)
+
 
   
  
